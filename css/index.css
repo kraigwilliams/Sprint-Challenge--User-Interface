@@ -144,3 +144,44 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/* my code */
+
+#one {
+background:teal;
+}
+#two {
+background:gold;
+    }
+#three {
+background:cadetblue;
+        }
+ #four {
+background:coral;
+    }
+#five {
+ background:crimson;
+    }
+#six {
+background:forestgreen;
+    }
+ #seven {
+background:darkorchid;
+    }
+#eight {
+background:hotpink;
+    }
+#nine {
+background:indigo;
+    }
+#ten {
+    background:dodgerblue;
+    }
+.header{
+    
+margin-bottom:30px;
+}
+.header ul{
+    display: flex;
+    justify-content:space-between;
+    align-items: baseline;
+}
