@@ -187,7 +187,25 @@ width:100%;
 margin:30px 0px 20px 0px;
  }
 
+ /*about page*/
+
  .about-header{
      width:100%;
      margin:30px 0px 20px 0px;
  }
+
+.about-section{
+    
+    margin-bottom: 30px;
+    border-bottom:1px dashed black;
+    
+}
+.about-main{
+display:flex;
+flex-wrap:wrap;
+}
+.about-box{
+    flex-basis: 200px;
+    margin-right:20px;
+    border-bottom: 1px dashed black;
+}
